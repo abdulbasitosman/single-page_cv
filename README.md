@@ -6,4 +6,4 @@ This is my personal CV. It contains my bio data, skills, education, experience.
 2. Look for the file index.html
 3. Open it with your prefer web browser 
 
-However, you can view this project [here](https://roadmap.sh/projects/single-page-cv)
+Or you can check it out on the project page [here](https://roadmap.sh/projects/single-page-cv)
